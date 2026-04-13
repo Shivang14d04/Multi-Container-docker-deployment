@@ -1,4 +1,4 @@
-# 🐳 VProfile — Dockerized Multi-Tier Java Web Application
+# 🐳 DockerStack — Dockerized Multi-Tier Java Web Application
 
 A production-like containerized deployment of a multi-tier Java web application using **Docker** and **Docker Compose**. The stack includes a reverse proxy, application server, relational database, caching layer, and message broker — all wired together and orchestrated as isolated services.
 
